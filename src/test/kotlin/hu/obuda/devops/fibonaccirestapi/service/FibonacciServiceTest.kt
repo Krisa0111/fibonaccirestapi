@@ -32,7 +32,8 @@ class FibonacciServiceTest {
                 Pair(5, 5),
                 Pair(6, 8),
                 Pair(7, 13),
-                Pair(8, 21)
+                Pair(8, 21),
+                Pair(9, 29)
         )
 
         for ((n, expected) in testCases) {
